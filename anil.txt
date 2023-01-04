@@ -1,4 +1,4 @@
-agent {
+agent {DevOps Engineer in Startup Company, Here is the code received fron Developer
     kubernetes {
         defaultContainer 'kaniko'
         yaml '''
