@@ -1,5 +1,5 @@
-agent {DevOps Engineer in Startup Company, Here is the code received fron Developer
-    kubernetes {
+agent {DevOps Engineer in Startup Company, Here is the code received fron Developer. MBK Infotech Solution
+    kubernetes { Git, Maven, Apache Tomcat, Jenkins, Ansible, K8's, Terraform, Docker, SonarQube 
         defaultContainer 'kaniko'
         yaml '''
 kind: Pod
