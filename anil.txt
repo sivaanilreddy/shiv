@@ -1,5 +1,5 @@
 agent {DevOps Engineer in Startup Company, Here is the code received fron Developer. MBK Infotech Solution
-    kubernetes { Git, Maven, Apache Tomcat, Jenkins, Ansible, K8's, Terraform, Docker, SonarQube 
+    kubernetes { Git, Maven, Apache Tomcat, Jenkins, Ansible, K8's, Terraform, Docker, Sonar Qube
 agent {
     kubernetes {
 >>>>>>> parent of a03bd80 (second file)
